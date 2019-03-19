@@ -2,9 +2,9 @@
   "name": "html-startup-boilerplate",
   "description": "Html startup boilerplate with less, nunjucks, postcss-svg, autoprefixer, rigger, etc.",
   "version": "0.1.0",
-  "repository" : {
-    "type" : "git",
-    "url"  : "https://github.com/limiterCore/html-startup-boilerplate-early-2017.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limiterCore/html-startup-boilerplate-early-2017.git"
   },
   "keywords": [
     "less",
